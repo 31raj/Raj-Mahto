@@ -10,3 +10,7 @@
 
 ![](https://komarev.com/ghpvc/?username=rajmahto&label=Profile%20views&color=blue&style=flat)
 ![](https://komarev.com/ghpvc/?username=rajmahto&color=blue)
+![Raj's GitHub stats](https://github-readme-stats.vercel.app/api?username=rajmahto&show_icons=true&theme=tokyonight)
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=rajmahto&theme=dark)
+
+
