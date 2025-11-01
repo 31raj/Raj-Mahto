@@ -9,3 +9,4 @@
 - ⚡ Fun fact: I love coding and music 🎧
 
 ![](https://komarev.com/ghpvc/?username=rajmahto&label=Profile%20views&color=blue&style=flat)
+![](https://komarev.com/ghpvc/?username=rajmahto&color=blue)
