@@ -1,4 +1,4 @@
-# 👋 Hi, I'm RAJ MAHTO
+# 👋 Hi, I'm Raj Mahto  
 
 ### 💻 BCA Student | Web Developer | Tech Enthusiast  
 
@@ -9,6 +9,7 @@
 - 💬 Ask me about **HTML, CSS, and C++**  
 - 📫 Connect with me on [LinkedIn](https://www.linkedin.com/in/raj-mahto-80290a363)  
 - 📸 Follow me on [Instagram](https://www.instagram.com/rebbe.abhi)  
+- 🧩 Practicing coding on [LeetCode](https://leetcode.com/YOUR_LEETCODE_USERNAME)
 
 ---
 
@@ -21,9 +22,14 @@
 
 ---
 
+### 🧮 LeetCode Stats
+![LeetCode Stats](https://leetcard.jacoblin.cool/YOUR_LEETCODE_USERNAME?theme=dark&font=Karma&ext=heatmap)
+
+---
+
 ### 📊 GitHub Stats
 ![Raj's GitHub stats](https://github-readme-stats.vercel.app/api?username=rajmahto&show_icons=true&theme=tokyonight)  
-  
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=rajmahto&theme=tokyonight)  
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rajmahto&layout=compact&theme=tokyonight)
 
 ---
@@ -31,12 +37,9 @@
 ### 🌐 Let's Connect
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/raj-mahto-80290a363)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/rebbe.abhi)
+[![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/YOUR_LEETCODE_USERNAME)
 
 ---
 
 > 💬 “Code. Learn. Grow. Repeat.”  
 > — *Raj Mahto*
-
-
-
-
