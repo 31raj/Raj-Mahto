@@ -1,4 +1,4 @@
-# 👋 Hi, I'm Raj Mahto  
+# 👋 Hi, I'm RAJ MAHTO
 
 ### 💻 BCA Student | Web Developer | Tech Enthusiast  
 
